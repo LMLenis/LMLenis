@@ -10,7 +10,7 @@ My family and friends call me Luisma too.
 
 I'm a electronics engineer with 25 years of experience managing large scale projects in [mobile communications](https://www.americamovil.com/Spanish/overview/).
 
-I'm certified in Project Manager Professional and Scrum Master.
+I'm certified like a Project Manager Professional and Scrum Master.
 
 I’m currently studing on [Henry Bootcamp](https://www.soyhenry.com/) because I want to work developing applications.
 
