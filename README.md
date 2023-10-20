@@ -8,7 +8,7 @@
   
 My family and friends call me Luisma too.
 
-I'm a electronics engineer with 25 years of experience managing large scale projects in mobile communications.
+I'm a electronics engineer with 25 years of experience managing large scale projects in [mobile communications](https://www.americamovil.com/Spanish/overview/).
 
 I'm certified in project manager professional and Scrum Master.
 
