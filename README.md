@@ -64,17 +64,25 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://slack.com/intl/es-co" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="Git" height="50" /></a> 
-<a href="https://www.pmi.org/" target="_blank"><img style="margin: 10px" src="https://www.pmi.org/-/media/pmi/other-images/certifications/digital-badges/pmp-badge.png?v=c7b489e5-550c-400d-9094-6521f60b08b3&h=196&w=196&rev=264ee22794784997b9af4210f47fac2e" alt="Git" height="50" /></a>  
-<a href="https://scrum.org" target="_blank"><img style="margin: 10px" src="https://images.credly.com/images/916bde6c-7eb3-40da-b698-993bdc8231f5/image.png" alt="Git" height="50" /></a>
+
 </div>
 
 </td></tr></table>  
 
 <br/>  
 
+### My Certificates
+<div align="center">
+<a href="https://www.pmi.org/" target="_blank"><img style="margin: 10px" src="https://www.pmi.org/-/media/pmi/other-images/certifications/digital-badges/pmp-badge.png?v=c7b489e5-550c-400d-9094-6521f60b08b3&h=196&w=196&rev=264ee22794784997b9af4210f47fac2e" alt="Git" height="50" /></a>  
+<a href="https://scrum.org" target="_blank"><img style="margin: 10px" src="https://images.credly.com/images/916bde6c-7eb3-40da-b698-993bdc8231f5/image.png" alt="Git" height="50" /></a>
+</div>
 
 ## Connect with me  - llenis73@gmail.com
 <div align="center">
+
+</div> 
+
+
 
 <a href="https://github.com/LMLenis" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
