@@ -73,8 +73,8 @@
 
 ### My Certificates
 <div align="center">
-<a href="https://www.pmi.org/" target="_blank"><img style="margin: 10px" src="https://www.pmi.org/-/media/pmi/other-images/certifications/digital-badges/pmp-badge.png?v=c7b489e5-550c-400d-9094-6521f60b08b3&h=196&w=196&rev=264ee22794784997b9af4210f47fac2e" alt="Git" height="50" /></a>  
-<a href="" target="_blank"><img style="margin: 10px" src="https://images.credly.com/images/916bde6c-7eb3-40da-b698-993bdc8231f5/image.png" alt="Git" height="50" /></a>
+<a href="https://www.credly.com/badges/8ddcbad8-61c0-422f-a213-6a9aacfce24b" target="_blank"><img style="margin: 10px" src="https://www.pmi.org/-/media/pmi/other-images/certifications/digital-badges/pmp-badge.png?v=c7b489e5-550c-400d-9094-6521f60b08b3&h=196&w=196&rev=264ee22794784997b9af4210f47fac2e" alt="Git" height="50" /></a>  
+<a href="https://www.credly.com/badges/c023a1fb-bae5-4313-a97d-460b909e76fe" target="_blank"><img style="margin: 10px" src="https://images.credly.com/images/916bde6c-7eb3-40da-b698-993bdc8231f5/image.png" alt="Git" height="50" /></a>
 <a href="https://www.credly.com/badges/4bf1ca96-a283-433c-b65c-1fc858cea0db" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="Git" height="50" /></a>
 </div>
 
