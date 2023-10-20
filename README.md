@@ -4,21 +4,18 @@
 </div>  
   
 
-### <div align="center">I'm Luisma, a electronics engineer that I want to work remotely like full-time full-stack developer 🚀</div>  
+### <div align="center">I'm Luis Lenis, a electronics engineer that I want to work remotely like full-time full-stack developer 🚀</div>  
   
+My family and friends call me Luisma too.
 
-- 🔭 I’m currently stading on [Henry](https://www.soyhenry.com/)  
+I'm a electronics engineer with 25 years of experience managing large scale projects in mobile communications.
+
+I'm certified in project manager professional and Scrum Master.
+
+I’m currently studing on [Henry](https://www.soyhenry.com/) because I want to work developing applications.
+
+I want to continue studing to be a solution architect
   
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
 
 
@@ -71,7 +68,7 @@
 
 <br/>  
 
-### My Certificates
+## My Certificates
 <div align="center">
 <a href="https://www.credly.com/badges/8ddcbad8-61c0-422f-a213-6a9aacfce24b" target="_blank"><img style="margin: 10px" src="https://www.pmi.org/-/media/pmi/other-images/certifications/digital-badges/pmp-badge.png?v=c7b489e5-550c-400d-9094-6521f60b08b3&h=196&w=196&rev=264ee22794784997b9af4210f47fac2e" alt="Git" height="50" /></a>  
 <a href="https://www.credly.com/badges/c023a1fb-bae5-4313-a97d-460b909e76fe" target="_blank"><img style="margin: 10px" src="https://images.credly.com/images/916bde6c-7eb3-40da-b698-993bdc8231f5/image.png" alt="Git" height="50" /></a>
@@ -80,10 +77,6 @@
 
 ## Connect with me
 <div align="center">
-
-</div> 
-
-
 
 <a href="https://github.com/LMLenis" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
