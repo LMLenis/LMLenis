@@ -13,7 +13,7 @@ I'm a electronics engineer with 25 years of experience managing large scale proj
 
 I'm certified like a Project Manager Professional and Scrum Master.
 
-I’m currently studing on [Henry Bootcamp](https://www.soyhenry.com/) because I want to work developing applications.
+I’m currently studing on [Henry Bootcamp](https://www.soyhenry.com/webfullstack) because I want to work developing applications.
 
 I want to continue studing to be a solution architect
   
