@@ -5,7 +5,7 @@
 
 
 
-### <div align="center">I'm Luis Lenis, a electronics engineer that I want to work remotely like full-time full-stack developer 🚀</div>  
+### <div align="center">I'm Luis Lenis, a electronics engineer that wants to work remotely like full-time full-stack developer 🚀</div>  
   
 My family and friends call me Luisma too.
 
