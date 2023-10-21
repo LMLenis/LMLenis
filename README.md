@@ -1,8 +1,9 @@
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/qjRN95S/Banner-de-Linked-In-Sencillo-Tecnolog-a-Fondo-negro.png" align="center" style="width: 100%" />
 </div>  
-  
+
+
 
 ### <div align="center">I'm Luis Lenis, a electronics engineer that I want to work remotely like full-time full-stack developer 🚀</div>  
   
