@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/LMLenis/image/blob/main/Banner%20de%20LinkedIn%20Sencillo%20Tecnolog%C3%ADa%20Fondo%20negro.png" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/qjRN95S/Banner-de-Linked-In-Sencillo-Tecnolog-a-Fondo-negro.png" align="center" style="width: 100%" />
 </div>  
 
 
