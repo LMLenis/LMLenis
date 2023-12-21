@@ -61,7 +61,7 @@ I want to continue studing to be a solution architect
 ### Tools  
 <div align="center">  
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Git" height="50" /></a>  
 <a href="https://slack.com/intl/es-co" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="Slack" height="50" /></a> 
 <a href="https://discord.com/" target="_blank"><img style="margin: 10px" src="https://spaniardperformance.com/wp-content/uploads/2023/04/discord-logo.png" alt="Discord" height="50" /></a> 
 </div>
