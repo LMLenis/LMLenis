@@ -5,7 +5,7 @@
 
 
 
-### <div align="center">I'm Luis Lenis, a electronics engineer that wants to work remotely like full-time full-stack developer 🚀</div>  
+### <div align="center">I'm Luis Lenis, a electronics engineer that has the skills to work like full-stack developer 🚀</div>  
   
 My family and friends call me Luisma too.
 
@@ -13,9 +13,9 @@ I'm a electronics engineer with 25 years of experience managing large scale proj
 
 I'm certified like a Project Manager Professional and Scrum Master.
 
-I’m currently studing on [Henry Bootcamp](https://www.soyhenry.com/webfullstack) because I want to work developing applications.
+I just finished my studies in [Henry Bootcamp](https://www.soyhenry.com/webfullstack) because I want to know everything about applications development.
 
-I want to continue studing to be a solution architect
+I want to continue studing to be a solution architect and a leader in digital transformation
   
 <br/>  
 
