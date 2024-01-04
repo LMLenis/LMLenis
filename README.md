@@ -32,7 +32,7 @@ I want to continue studing to be a solution architect and a leader in digital tr
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a> 
-
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="Tailmindcss" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="25%">
@@ -45,7 +45,7 @@ I want to continue studing to be a solution architect and a leader in digital tr
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src=https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="Tailmindcss" height="50" /></a> 
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="25%">
