@@ -5,11 +5,11 @@
 
 
 
-### <div align="center">I'm Luis Lenis, a electronics engineer that has the skills to work like full-stack developer 🚀</div>  
+### <div align="center">I'm Luis Lenis, a electronics engineer that has the skills to work like full-stack developer or project manager 🚀</div>  
   
 My family and friends call me Luisma too.
 
-I'm a electronics engineer with 25 years of experience managing large scale projects in [mobile communications](https://www.americamovil.com/Spanish/overview/).
+I'm a electronics engineer with wide experience managing large scale projects in [mobile communications](https://www.americamovil.com/Spanish/overview/).
 
 I'm certified like a Project Manager Professional and Scrum Master.
 
