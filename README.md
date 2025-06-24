@@ -13,7 +13,7 @@ I'm a electronics engineer with wide experience managing large scale projects of
 
 I'm certified like a Project Manager Professional and Scrum Master.
 
-I just finished my studies in [Henry Bootcamp](https://d2rf2c6bvm78n9.cloudfront.net/new-cert?id=9dbcdf3a047400e69b839de1e48df385d24fb9bd3aff98465983440347d595d2) because I want to know everything about applications development.
+In 2023 finished my studies in [Henry Bootcamp](https://d2rf2c6bvm78n9.cloudfront.net/new-cert?id=9dbcdf3a047400e69b839de1e48df385d24fb9bd3aff98465983440347d595d2) because I want to know everything about applications development.
 
 I want to continue studing to be a solution architect and a leader in digital transformation
   
