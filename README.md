@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://luis-mario-lenis.imgbb.com/" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/qjRN95S/Banner-de-Linked-In-Sencillo-Tecnolog-a-Fondo-negro.png" align="center" style="width: 100%" />
 </div>  
 
 
