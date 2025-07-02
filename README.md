@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://i.ibb.co/C53FmsZy/Banner-Para-Linked-In-Desarrollador-De-Software-Moderno-Negro.png" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/wh3QYMKY/Banner-Para-Linked-In-Desarrollador-De-Software-Moderno-Negro.png" align="center" style="width: 100%" />
 </div>  
 
 
