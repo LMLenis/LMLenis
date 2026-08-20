@@ -5,17 +5,11 @@
 
 
 
-### <div align="center">I'm Luis Lenis, a electronics engineer that has the skills to work like full-stack developer or project manager 🚀</div>  
+### <div align="center">I'm Luis Lenis, an Electronics Engineer with experience in software development, QA automation, cloud technologies, IT operations, data analytics, and AI. 🚀</div>  
   
-My family and friends call me Luisma too.
+I also have experience with AWS, ITSM, digital transformation, and AI/LLM-based solutions, combining hands-on technical knowledge with project management and technology leadership.
 
-I'm a electronics engineer with wide experience managing large scale projects of Technology.
-
-I'm certified like a Project Manager Professional and Scrum Master.
-
-In 2023 finished my studies in [Henry Bootcamp](https://d2rf2c6bvm78n9.cloudfront.net/new-cert?id=9dbcdf3a047400e69b839de1e48df385d24fb9bd3aff98465983440347d595d2) because I want to know everything about applications development.
-
-I want to continue studing to be a solution architect and a leader in digital transformation
+I'm continuously learning and building solutions across software engineering, cloud, automation, data, and AI.
   
 <br/>  
 
