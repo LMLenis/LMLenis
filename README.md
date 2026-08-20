@@ -56,7 +56,7 @@ I'm continuously learning and building solutions across software engineering, cl
   
 ### Tools  
 <div align="center">  
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC" height="50" /></a>  
+<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/330px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSC" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Git" height="50" /></a>  
 <a href="https://slack.com/intl/es-co" target="_blank"><img style="margin: 10px" src="https://a.slack-edge.com/38f0e7c/marketing/img/nav/slack-salesforce-logo-nav-black@2x.png" alt="Slack" height="50" /></a> 
 <a href="https://discord.com/" target="_blank"><img style="margin: 10px" src="https://static.vecteezy.com/system/resources/previews/023/986/880/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" alt="Discord" height="50" /></a> 
