@@ -70,7 +70,7 @@ I'm continuously learning and building solutions across software engineering, cl
 <div align="center">
 <a href="https://www.credly.com/badges/8ddcbad8-61c0-422f-a213-6a9aacfce24b" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/680x680/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/blob" alt="Git" height="100" /></a>  
 <a href="https://www.credly.com/badges/c023a1fb-bae5-4313-a97d-460b909e76fe" target="_blank"><img style="margin: 10px" src="https://images.credly.com/images/916bde6c-7eb3-40da-b698-993bdc8231f5/image.png" alt="Git" height="100" /></a>
-<a href="https://www.credly.com/badges/4bf1ca96-a283-433c-b65c-1fc858cea0db" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="Git" height="100" /></a>
+<a href="https://www.credly.com/badges/4bf1ca96-a283-433c-b65c-1fc858cea0db" target="_blank"><img style="margin: 10px" src="https://images.credly.com/size/680x680/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" alt="Git" height="100" /></a>
 </div>
 
 ## Connect with me
