@@ -49,7 +49,7 @@ I'm continuously learning and building solutions across software engineering, cl
 ### DataBase  
 <div align="center">  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="50" /></a> 
-<a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png" alt="PostgreSQL" height="50" /></a> 
+<a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="25%">
